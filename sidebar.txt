@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tds:home|Door43 (tds)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tds|d43-tds repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tds/archive/master.zip|d43-tds.zip]]
+
+**Recent Changes**
+{{changes>ns = tds}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tds|Ethnologue data]]
+
